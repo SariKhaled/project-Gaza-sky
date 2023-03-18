@@ -1,0 +1,88 @@
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
+.nav-home {
+    background-color: #6f4e37;
+}
+
+#title1 {
+    font-family: 'Yellowtail', "cursive";
+}
+
+#img-1 {
+    height: 721px;
+}
+
+.text-coffee {
+    color: white;
+    text-align: center;
+}
+
+.text-coffee h3 {
+    margin-top: 300px;
+}
+
+.text-coffee a {
+    background-color: #6f4e37;
+    color: white;
+}
+
+.text-coffee a:hover {
+    background-color: #64452e;
+}
+
+#about-home {
+    background-color: #917057;
+    color: white;
+    height: 650px;
+}
+
+#about {
+    text-align: center;
+    color: white;
+}
+
+#pro1 {
+    background-color: #553b28;
+    color: white;
+}
+
+#Portfolio {
+    background-color: #A8885D;
+    height: 700px;
+    overflow-y: auto;
+}
+
+#Port-tab ul li button {
+    color: white;
+    background-color: #b08b6f;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.img-pro img {
+    width: 300px;
+    margin: 10px;
+    opacity: 1;
+}
+
+#contact {
+    background-color: #BF9760;
+    height: 600px;
+    font-family: 'Anek Latin', sans-serif;
+}
+
+#contact button {
+    background-color: #553b28;
+    color: white;
+}
+
+#fot2 {
+    background-color: #64452e;
+    height: 120px;
+}
+
+#fot2 a {
+    margin-right: 10px;
+}
